@@ -3,8 +3,8 @@ title: 黄浦童军 # your site title
 author: adevil # You :P
 description: > # Meta description of Homepage
   一个国际性的、非政治性的、非军事性的、非政府性的（NGO）以及非营利性的（NPO）的青少年运动组织
-baseurl: "/hpscout" # the subpath of your site, e.g. /blog
-url: "https://adevil23.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://hpscout.cn" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
