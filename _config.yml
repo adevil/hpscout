@@ -10,13 +10,13 @@ url: "https://adevil23.github.io/" # the base hostname & protocol for your site,
 social:
   name: adevil
   links:
-    - https://github.com/adevil23
+    - https://github.com/adevil
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: '首页', link: '/'}
+  - {name: '关于', link: '/about'}
+#  - {name: 'Contact', link: '/contact'}
 
 tagline: >
   一个国际性的、非政治性的、非军事性的、非政府性的（NGO）以及非营利性的（NPO）的青少年运动组织
@@ -25,9 +25,9 @@ hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/
 
 email: adevil23@gmail.com # email for form submission
 
-twitter_username: adevil23 # replace with your_twitter_username or comment to remove link from footer
-github_username:  adevil23 # replace with your_github_username or comment to remove link from footer
-instagram_username: adevil23 # replace with your_instagram_username or comment to remove link from footer
+#twitter_username: adevil23 # replace with your_twitter_username or comment to remove link from footer
+github_username:  adevil # replace with your_github_username or comment to remove link from footer
+#instagram_username: adevil23 # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
   shortname: adevil23 # to enable comments replace with your_disqus_shortname
